@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82872525389",
+    "project_id": "trash---app-867e8",
+    "storage_bucket": "trash---app-867e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82872525389:android:da695342bbd04f96cbf204",
+        "android_client_info": {
+          "package_name": "com.example.trash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kHBOBgEnsPkIgTHJLg4I6R74nSzHlN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
